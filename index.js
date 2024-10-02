@@ -321,8 +321,8 @@ sock.sendMessage(res.id, { text: text, mentionedJid:[m.sender]}, {quoted: null, 
 //--------------------[ WELCOME ]-----------------------
 sock.ev.on('group-participants.update', async (anu) => {
 console.log(anu)
-//let Welc = global.db.data.chats[anu.id].welcome
-if(global.db.data.chats[anu.id].welcome < true) return
+let Welc = global.db.data.chats[anu.id].welcome
+if (global.db.data.chats[anu.id].welcome < true) return
 try {
 let metadata = await sock.groupMetadata(anu.id)
 let participants = anu.participants
