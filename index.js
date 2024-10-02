@@ -34,7 +34,7 @@ var low
 try {
 low = require('lowdb')
 } catch (e) {
-low = require('./libs/database/lowdb')
+low = require('./libs/database/lowbd')
 }
 
 const { Low, JSONFile } = low
