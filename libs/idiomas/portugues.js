@@ -68,11 +68,11 @@ text6: ` MENSAGEM:` }
 
 //autobio
 const Bio = { 
-text: `🦁 ɴᴏᴠᴀʙᴏᴛ - ᴛᴇɴɢᴏ:`, 
+text: `🦉 AtroBot- ᴛᴇɴɢᴏ:`, 
 text2: `ᴜsᴜᴀʀɪᴏs ᴜsᴀᴅᴏʀᴍᴇ ᴘᴜᴇᴅᴏ ʀᴇsᴘᴏɴᴅᴇ ʟᴇɴᴛᴀ ᴍɪ ᴠᴇʟᴏᴄɪᴅᴀᴅ ᴅᴇ ʀᴇsᴘᴜᴇsᴛᴀ ᴇs:`,
-text3: `👑 ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ | ᴀᴄᴛɪᴠᴏ ✅️:`, 
+text3: `👑 AtroBot-MD | ᴀᴄᴛɪᴠᴏ ✅️:`, 
 text4: `ᴘᴀʀᴀ ᴠᴇᴢ ᴍɪ ʟɪsᴛᴀ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏ ᴜsᴀʀ #menu`, 
-text5: `ɴᴏᴠᴀʙᴏᴛ ᴘᴏʀ ʟᴏʟɪʙᴏᴛ - sᴜʙsᴄʀɪʙɪʀᴛᴇ ᴇʟ ɴᴜᴇsᴛʀᴏ ᴄᴀɴᴀʟ ᴅᴇʟ ʏᴏᴜᴛᴜʙᴇ 🔔\nhttps://www.youtube.com/@elrebelde.21`, 
+text5: `Atro Bot- sᴜʙsᴄʀɪʙɪʀᴛᴇ ᴇʟ ɴᴜᴇsᴛʀᴏ ᴄᴀɴᴀʟ ᴅᴇʟ 🔔\nhttps://www.youtube.com/@`, 
 text6: `✅ Actividad:`, 
 text7: `👥 Usuarios:` }
 
@@ -162,30 +162,22 @@ text3: ` Caminho`,
 text4: ` Prefixo`, 
 text5: ` Usuário Registrado`, 
 text6: ` Total de usuários`, 
-text7: `*ATIVAR SEU BOT ATIVO 24 horas por dia, 7 dias por semana em 𝘐𝘕𝘍𝘐𝘕𝘐𝘛𝘠-𝘏𝘖𝘚𝘛:*`, 
-text8: `* Bot simples com poucos comandos*`, 
+text7: `*🛍️Tienda | Shop 🛍️:*`, 
+text8: `* Loja Oficial *`, 
 text9: `|- *_-¿ PERGUNTAS/DÚVIDAS?-_*`, 
 text10: `||- *_- INFORMAÇÃO-_*`, 
-text11: `*🚩 Preços:*
-* 1 GB, 100 CPU = 1 dólar
-* 2 GB, 120 CPU = 2 dólares
-* 3 GB, 140 CPU = 3 dólares
-* 4 GB, 175 CPU = 4 dólares
-* 5 GB, 200 CPU = 5 dólares`, 
-text12: `*🛍️Forma de pagamento: *
+text11: `*🛍️ Preços:*
+* $ 9.00   = Mistyc Mensual
+* $ 12.00  = Mistyc Permanente
+* $ 4.00   = Superior Mensual
+* $ 6.00   = Superior Permanente
+* $ 17.00  = Zeus Permanente
+* $ 26.00  = Infierno Permanente `,
+text12: `*🛍️Método de pago : *
 
-*• PayPal :* paypal.me/OfcGB (🌎) 
-*• Mercado de pagamentos, alias:* OficialGB (🇦🇷🇵🇪🇺🇾🇲🇽🇨🇴🇧🇷🇨🇱) 
-*• Laranja x, aliás:* OficialGL (🇦🇷) 
-*• Yape (Perú) :* +51948705559 (🇵🇪) 
-*• Nequi (Colombia):* +573027866596 (🇨🇴) 
-*• Uala:* thelolibotm.uala (🇦🇷🇲🇽🇨🇴) 
-*• DolarApp:* $oficialgb (🇫🇰🇱🇷🇲🇽🇨🇴) 
+*• PayPal :* paypal.me/EdwardDcS (🦉) `, 
 
-*• Link pago:* link.mercadopago.com.ar/h0sting 
-*• Patreon:* https://patreon.com/Infinity_wa_hosting
-*• Kofi:* https://ko-fi.com/infinitywa
-*• Só pago com cartão.* wa.me/390684003755`, 
+
 text13: `*🚩 Insira seu relatório ou problema para que um moderador possa ajudá-lo*`, 
 text14: `*✅ Seus relatórios foram enviados aos moderadores do anfitrião, eles entrarão em contato com você o mais breve possível.*`, 
 text15: `👑 MEU CRIADOR É`, 
