@@ -162,7 +162,7 @@ text3: `Modo`,
 text4: `Prefix`, 
 text5: `Usuario registrado`, 
 text6: `Usuarios totales`, 
-text7: `*Tienda/Shop*`, 
+text7: `*🛍️Tienda/Shop🛍️*`, 
 text8: `*Tienda oficial*`, 
 text9: `|- *_-¿PREGUNTA / DUDAS?-_*`, 
 text10: `||- *_-INFORMACIONES-_*`, 
@@ -175,7 +175,7 @@ text11: `*🚩 Precios :*
 * $ 26.00  = Infierno Permanente `,
 text12: `*🛍️Método de pago :*
 
-*• PayPal :* paypal.me/
+*• PayPal :* paypal.me/EdwardDcS*
 *• Yape (Perú) : +51 900 854 017* `, 
 text13: `*🚩 Por favor, Ingrese sus reporte o problema para que algun moderador pueda ayudarle*`, 
 text14: `*✅ Sus reportes fueron enviados a los moderadores del Servidor, tan pronto como sea posible se comunicarán con usted*`, 
