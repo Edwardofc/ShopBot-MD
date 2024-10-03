@@ -168,26 +168,17 @@ text7: `*ACTIVATE YOUR 24/7 ACTIVE BOT ON 𝘐𝘕𝘍𝘐𝘕𝘐𝘛𝘠-𝘏�
 text8: `* Simple bot with few commands*`, 
 text9: `|- *_-¿QUESTION / DOUBTS?-_*`, 
 text10: `||- *_- INFORMATION-_*`, 
-text11: `*🚩 Prices :*
-* 1GB, 100CPU = 1 dollar
-* 2GB, 120CPU = 2 dollars
-* 3GB, 140CPU = 3 dollars
-* 4GB, 175CPU = 4 dollars
-* 5GB, 200CPU = 5 dollars`, 
+text11: `*🛍️ Prices 🛍️ :*
+* $ 9.00   = Mistyc Mensual
+* $ 12.00  = Mistyc Permanente
+* $ 4.00   = Superior Mensual
+* $ 6.00   = Superior Permanente
+* $ 17.00  = Zeus Permanente
+* $ 26.00  = Infierno Permanente`, 
 text12: `*🛍️Payment method: *
 
-*• PayPal :* paypal.me/OfcGB (🌎) 
-*• Mercado pago, alias:* OficialGB (🇦🇷🇵🇪🇺🇾🇲🇽🇨🇴🇧🇷🇨🇱) 
-*• Naranja x, alías:* OficialGL (🇦🇷) 
-*• Yape (Perú) :* +51948705559 (🇵🇪) 
-*• Nequi (Colombia):* +573027866596 (🇨🇴) 
-*• Uala:* thelolibotm.uala (🇦🇷🇲🇽🇨🇴) 
-*• DolarApp:* $oficialgb (🇫🇰🇱🇷🇲🇽🇨🇴) 
+*• PayPal :* paypal.me/OfcGB (🌎)`, 
 
-*• Paid link:* link.mercadopago.com.ar/h0sting 
-*• Patreon:* https://patreon.com/Infinity_wa_hosting
-*• Kofi:* https://ko-fi.com/infinitywa
-*• I only pay with card.* wa.me/390684003755`, 
 text13: `*🚩 Please enter your report or issue so that a moderator can help you*`, 
 text14: `*✅ Your reports have been sent to the host's moderators, they will contact you as soon as possible.*`, 
 text15: `👑 MY CREATOR IS`, 
