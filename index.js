@@ -1,17 +1,17 @@
 (async () => {
-    require("./settings");
+    await import("./settings.js"); // Cambiar a importación ES
     
-    const { default: makeWASocket, CONNECTING, PHONENUMBER_MCC, makeInMemoryStore, useMultiFileAuthState, fetchLatestBaileysVersion } = require("@whiskeysockets/baileys");
+    const { default: makeWASocket, CONNECTING, PHONENUMBER_MCC, makeInMemoryStore, useMultiFileAuthState, fetchLatestBaileysVersion } = await import("@whiskeysockets/baileys");
     const { state, saveCreds } = await useMultiFileAuthState('./sessions');
     
-    const chalk = require('chalk');
-    const moment = require('moment');
-    const fs = require('fs');
-    const yargs = require('yargs/yargs');
-    const { smsg, sleep, getBuffer } = require('./libs/fuctions');
-    const _ = require('lodash');
-    const NodeCache = require('node-cache');
-    const readline = require("readline");
+    const chalk = await import('chalk'); // Cambiar a importación ES
+    const moment = await import('moment'); // Cambiar a importación ES
+    const fs = await import('fs'); // Cambiar a importación ES
+    const yargs = (await import('yargs/yargs')).default; // Cambiar a importación ES
+    const { smsg, sleep, getBuffer } = await import('./libs/fuctions.js'); // Cambiar a importación ES
+    const _ = await import('lodash'); // Cambiar a importación ES
+    const NodeCache = await import('node-cache'); // Cambiar a importación ES
+    const readline = await import("readline"); // Cambiar a importación ES
     
     // Función para dar color a los textos
     const color = (text, color) => {
@@ -21,9 +21,9 @@
     // Base de datos
     let low;
     try {
-        low = require('lowdb');
+        low = await import('lowdb'); // Cambiar a importación ES
     } catch (e) {
-        low = require('./libs/database/lowbd');
+        low = await import('./libs/database/lowbd.js'); // Cambiar a importación ES
     }
 
     const { Low, JSONFile } = low;
