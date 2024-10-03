@@ -164,8 +164,8 @@ text3: `Way`,
 text4: `Prefix`, 
 text5: `Registered user`, 
 text6: `Total users`, 
-text7: `*ACTIVATE YOUR 24/7 ACTIVE BOT ON 𝘐𝘕𝘍𝘐𝘕𝘐𝘛𝘠-𝘏𝘖𝘚𝘛:*`, 
-text8: `* Simple bot with few commands*`, 
+text7: `*🛍️Tienda | Shop🛍️*`, 
+text8: `* Official Store *`, 
 text9: `|- *_-¿QUESTION / DOUBTS?-_*`, 
 text10: `||- *_- INFORMATION-_*`, 
 text11: `*🛍️ Prices 🛍️ :*
@@ -177,7 +177,7 @@ text11: `*🛍️ Prices 🛍️ :*
 * $ 26.00  = Infierno Permanente`, 
 text12: `*🛍️Payment method: *
 
-*• PayPal :* paypal.me/OfcGB (🌎)`, 
+*• PayPal :* paypal.me/EdwardDcS (🦉)`, 
 
 text13: `*🚩 Please enter your report or issue so that a moderator can help you*`, 
 text14: `*✅ Your reports have been sent to the host's moderators, they will contact you as soon as possible.*`, 
