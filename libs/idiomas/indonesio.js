@@ -68,11 +68,11 @@ text6: ` PESAN:` }
 
 //autobio
 const Bio = { 
-text: `🦁 ɴᴏᴠᴀʙᴏᴛ - ᴛᴇɴɢᴏ:`, 
+text: `🦉 AtroBot- ᴛᴇɴɢᴏ:`, 
 text2: `ᴜsᴜᴀʀɪᴏs ᴜsᴀᴅᴏʀᴍᴇ ᴘᴜᴇᴅᴏ ʀᴇsᴘᴏɴᴅᴇ ʟᴇɴᴛᴀ ᴍɪ ᴠᴇʟᴏᴄɪᴅᴀᴅ ᴅᴇ ʀᴇsᴘᴜᴇsᴛᴀ ᴇs:`,
-text3: `👑 ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ | ᴀᴄᴛɪᴠᴏ ✅️:`, 
+text3: `👑 AtroBot-MD | ᴀᴄᴛɪᴠᴏ ✅️:`, 
 text4: `ᴘᴀʀᴀ ᴠᴇᴢ ᴍɪ ʟɪsᴛᴀ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏ ᴜsᴀʀ #menu`, 
-text5: `ɴᴏᴠᴀʙᴏᴛ ᴘᴏʀ ʟᴏʟɪʙᴏᴛ - sᴜʙsᴄʀɪʙɪʀᴛᴇ ᴇʟ ɴᴜᴇsᴛʀᴏ ᴄᴀɴᴀʟ ᴅᴇʟ ʏᴏᴜᴛᴜʙᴇ 🔔\nhttps://www.youtube.com/@elrebelde.21`, 
+text5: `Atro Bot- sᴜʙsᴄʀɪʙɪʀᴛᴇ ᴇʟ ɴᴜᴇsᴛʀᴏ ᴄᴀɴᴀʟ ᴅᴇʟ 🔔\nhttps://www.youtube.com/@`, 
 text6: `✅ Actividad:`, 
 text7: `👥 Usuarios:` }
 
@@ -166,26 +166,17 @@ text7: `*AKTIFKAN BOT AKTIF 24/7 ANDA DI 𝘐𝘕𝘍𝘐𝘕𝘐𝘛𝘠-𝘏�
 text8: `* Bot sederhana dengan sedikit perintah*`, 
 text9: `|- *_-¿ PERTANYAAN / KERAGUAN?-_*`, 
 text10: `||- *_- INFORMASI-_*`, 
-text11: `*🚩 Harga :*
-* 1GB, 100CPU = 1 dolar
-* 2GB, 120CPU = 2 dolar
-* 3GB, 140CPU = 3 dolar
-* 4GB, 175CPU = 4 dolar
-* 5GB, 200CPU = 5 dolar`, 
+text11: `*🛍️ Harga🛍️ :*
+* $ 9.00   = Mistyc Mensual
+* $ 12.00  = Mistyc Permanente
+* $ 4.00   = Superior Mensual
+* $ 6.00   = Superior Permanente
+* $ 17.00  = Zeus Permanente
+* $ 26.00  = Infierno Permanente `,
 text12: `*🛍️Metode pembayaran: *
 
-*• PayPal :* paypal.me/OfcGB (🌎) 
-*• Pasar pembayaran, alias:* OficialGB (🇦🇷🇵🇪🇺🇾🇲🇽🇨🇴🇧🇷🇨🇱) 
-*• Oranye x, alias:* OficialGL (🇦🇷) 
-*• Yape (Peru) :* +51948705559 (🇵🇪) 
-*• Nequi (Colombia):* +573027866596 (🇨🇴) 
-*• Uala:* thelolibotm.uala (🇦🇷🇲🇽🇨🇴) 
-*• DolarApp:* $oficialgb (🇫🇰🇱🇷🇲🇽🇨🇴) 
+*• PayPal :* paypal.me/EdwardDcS (🦉) `, 
 
-*• Tautan berbayar:* link.mercadopago.com.ar/h0sting 
-*• Patreon:* https://patreon.com/Infinity_wa_hosting
-*• Kofi:* https://ko-fi.com/infinitywa
-*• Saya hanya membayar dengan kartu.* wa.me/390684003755`, 
 text13: `*🚩 Silakan masukkan laporan atau masalah Anda sehingga moderator dapat membantu Anda*`, 
 text14: `*✅ Laporan Anda telah dikirim ke moderator tuan rumah, mereka akan menghubungi Anda sesegera mungkin.*`, 
 text15: `👑 PENCIPTA SAYA ADALAH`, 
