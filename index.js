@@ -1,17 +1,19 @@
 (async () => {
+    // Importar configuraciones
     await import("./settings.js"); // Cambiar a importación ES
     
+    // Importar módulos necesarios
     const { default: makeWASocket, CONNECTING, PHONENUMBER_MCC, makeInMemoryStore, useMultiFileAuthState, fetchLatestBaileysVersion } = await import("@whiskeysockets/baileys");
     const { state, saveCreds } = await useMultiFileAuthState('./sessions');
     
-    const chalk = await import('chalk'); // Cambiar a importación ES
-    const moment = await import('moment'); // Cambiar a importación ES
-    const fs = await import('fs'); // Cambiar a importación ES
-    const yargs = (await import('yargs/yargs')).default; // Cambiar a importación ES
+    const chalk = (await import('chalk')).default; // Importación de chalk
+    const moment = (await import('moment')).default; // Importación de moment
+    const fs = (await import('fs')).default; // Importación de fs
+    const yargs = (await import('yargs/yargs')).default; // Importación de yargs
     const { smsg, sleep, getBuffer } = await import('./libs/fuctions.js'); // Cambiar a importación ES
-    const _ = await import('lodash'); // Cambiar a importación ES
-    const NodeCache = await import('node-cache'); // Cambiar a importación ES
-    const readline = await import("readline"); // Cambiar a importación ES
+    const _ = (await import('lodash')).default; // Importación de lodash
+    const NodeCache = (await import('node-cache')).default; // Importación de node-cache
+    const readline = await import("readline"); // Importación de readline
     
     // Función para dar color a los textos
     const color = (text, color) => {
@@ -21,9 +23,9 @@
     // Base de datos
     let low;
     try {
-        low = await import('lowdb'); // Cambiar a importación ES
+        low = (await import('lowdb')).default; // Cambiar a importación ES
     } catch (e) {
-        low = await import('./libs/database/lowbd.js'); // Cambiar a importación ES
+        low = (await import('./libs/database/lowbd.js')).default; // Cambiar a importación ES
     }
 
     const { Low, JSONFile } = low;
