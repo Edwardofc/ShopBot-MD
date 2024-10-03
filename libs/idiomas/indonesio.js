@@ -163,7 +163,7 @@ text4: ` Awalan`,
 text5: ` Pengguna terdaftar`, 
 text6: ` Jumlah pengguna`, 
 text7: `*🛍️Toko | toko🛍️*`, 
-text8: `* Bot sederhana dengan sedikit perintah*`, 
+text8: `* Toko Resmi *`, 
 text9: `|- *_-¿ PERTANYAAN / KERAGUAN?-_*`, 
 text10: `||- *_- INFORMASI-_*`, 
 text11: `*🛍️ Harga🛍️ :*
